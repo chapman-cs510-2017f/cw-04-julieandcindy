@@ -34,4 +34,10 @@ def eratosthenes(n):
     
     return primes
 
-#if __name__ == "__main__":
+if __name__ == "__main__":
+    import sys
+    if len(sys.argv) == 2:
+        print(eratosthenes(int(sys.argv[1])))
+    else:
+        print("Error, needs 1 command line argument")
+        exit(1)
