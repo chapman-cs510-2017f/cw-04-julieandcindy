@@ -1,8 +1,11 @@
 # CS510 CW 4
 
-**Author(s):** **CHANGEME**
+Julie Gardner-Hoag, Cynthia Parks
+Student ID: 2299636, 2303535
+Email: gardnerh@chapman.edu, cparks@chapman.edu
+Course: CS510 Fall 2017
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-04-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-04-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-04-julieandcindy.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-04-YOURNAME)
 
 ## Specification
 
