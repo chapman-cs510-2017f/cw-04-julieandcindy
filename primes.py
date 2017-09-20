@@ -12,6 +12,10 @@
 def eratosthenes(n):
     primes = []
     
+    if n<=0:
+        print("Please enter a positive number")
+        return
+    
     count = 2
     while count<=n-1:
         primes.append(count)
@@ -30,5 +34,4 @@ def eratosthenes(n):
     
     return primes
 
-
-        
+#if __name__ == "__main__":
