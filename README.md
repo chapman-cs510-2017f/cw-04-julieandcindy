@@ -28,9 +28,8 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
-
-**CHANGEME**
+This assignment was fun! Cindy enjoyed working with prime numbers. It was helpful to receive help on the "__main__"
+part of the code. We now have a good example of how this works and how to exit with an exit code and print what error occurs. We both didn't have experience with Jupyter so it was interesting learning how to use it.
 
 ## Honor Pledge
 
