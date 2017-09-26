@@ -17,9 +17,6 @@ def test_primes():
     assert result==correct
     
 def test_primes2():
-    try:
-        primes.eratosthenes(-50)
-    except:
-        return
-    print("Please enter a positive number")
-    assert False
+    result=primes.eratosthenes(50)
+    correct = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47]
+    assert result==correct
