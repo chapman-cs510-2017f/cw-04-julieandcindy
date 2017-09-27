@@ -9,9 +9,9 @@
 # Assignment: Classwork 4
 ###
 
-$ python
-  >>> import primes
-  >>> help(primes)
+#$ python
+#  >>> import primes
+#    help(primes)
 
 """Primes
 In this module we have a function, eratosthenes(n), that uses the Eratosthenes Sieve to produce a list of prime numbers.
@@ -80,7 +80,7 @@ def gen_eratosthenes():
     a = 2
     gen_primes = []
     while True:
-        if a is in eratosthenes(a+1):
+        if a in eratosthenes(a+1):
             gen_primes.append(a)
             yield a
             a += 1
